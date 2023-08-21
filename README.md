@@ -2,7 +2,7 @@
 
 ##  Aji Putra Ramadhan
  Saya Seorang Mahasiswa di Salah satu Perguruan tinggi Kota Bandung, dan Sedang menempuh Pendidikan S1 Teknik Informatika
- Saya Mempunyai Cita-Cita sebagai Software Engginer lbih tepat nya sebagai Fullstack Developer.
+ Saya Mempunyai Cita-Cita sebagai Software Engginer lbih tepat nya sebagai BackEnd Developer.
  ### Skill yang saya Punya Saat ini Yaitu : 
 -  🔥 🗿 PHP with Framework Laravel/CI
 -  😄 API with laravel
