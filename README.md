@@ -5,7 +5,7 @@
  Saya Mempunyai Cita-Cita sebagai Software Engginer lbih tepat nya sebagai Fullstack Developer.
  ### Skill yang saya Punya Saat ini Yaitu : 
 -  🔥 🗿 PHP with Framework Laravel/CI
--  😄 API dengan laravel
+-  😄 API with laravel
 -  🥦 Git dan Github
 - 👌 Css with Framework Bootstrap
 - 👐 MySql
