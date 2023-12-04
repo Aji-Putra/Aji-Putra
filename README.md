@@ -9,7 +9,7 @@
 -  🥦 Git dan Github
 - 👌 Css with Framework Bootstrap
 - 👐 MySql
-####  ✍🔥🔥 Saya juga sedang mengembangkan Skill saya di Java Script dengan mengikuti program Kampus Merdeka x Dicoding Cyle 5 dengan mengambil kelas Fullstack Developer.
+####  ✍🔥🔥 Saya juga sedang mengembangkan Skill saya dengan mengikuti program Kampus Merdeka x Dicoding Cyle 5 dengan mengambil kelas Fullstack Developer.
 
 <p align="left">
 <a href="https://github.com/Aji-Putra">
