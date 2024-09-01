@@ -10,7 +10,6 @@
 - 👌 Css with Framework Bootstrap
 - 👐 MySql
 - Docker
-####  ✍🔥🔥 Saya juga sedang mengembangkan Skill saya dengan mengikuti program Kampus Merdeka x Dicoding Cyle 5 dengan mengambil kelas Fullstack Developer.
 
 <p align="left">
 <a href="https://github.com/Aji-Putra">
